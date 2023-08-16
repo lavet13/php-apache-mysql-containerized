@@ -1,5 +1,6 @@
 <h1>Hello Cloudreach!</h1>
 <h4>Attempting MySQL connection from php...</h4>
+
 <?php
 // $host = 'scp108.hosting.reg.ru';
 // $user = 'u0921714_work';
